@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 
 import { SubHeading } from '../../components';
@@ -7,10 +8,10 @@ import './Chef.css';
 const Chef = () => (
   <div className="app__bg app__wrapper section__padding">
     <div className="app__wrapper_img app__wrapper_img-reverse">
-      <img src={images.chef} alt="chef_image" />
+      <img src={images.designer} alt="designer_image" />
     </div>
     <div className="app__wrapper_info">
-      <SubHeading title="Chef's word" />
+      <SubHeading title="Designer's word" />
       <h1 className="headtext__cormorant">What we believe in</h1>
 
       <div className="app__chef-content">
@@ -22,9 +23,9 @@ const Chef = () => (
       </div>
 
       <div className="app__chef-sign">
-        <p>Kevin Luo</p>
-        <p className="p__opensans">Chef & Founder</p>
-        <img src={images.sign} alt="sign_image" />
+        <p>Vidushi Sharma</p>
+        <p className="p__opensans">Designer & Founder (G.O.D.)</p>
+        {/* <img src={images.sign} alt="sign_image" /> */}
       </div>
     </div>
   </div>

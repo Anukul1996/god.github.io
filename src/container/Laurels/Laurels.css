@@ -7,6 +7,15 @@
     margin-top: 3rem;
 }
 
+.awards_headertext {
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    font-size: 52px;
+    line-height: 83.2px;
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+}
+
 .app__laurels_awards-card {
     flex: 1;
     display: flex;

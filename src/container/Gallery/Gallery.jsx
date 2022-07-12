@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import { BsInstagram, BsArrowLeftShort, BsArrowRightShort } from 'react-icons/bs';
 
