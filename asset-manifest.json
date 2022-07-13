@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/god.github.io/static/css/main.205ed40c.chunk.css",
-    "main.js": "/god.github.io/static/js/main.9de25552.chunk.js",
-    "main.js.map": "/god.github.io/static/js/main.9de25552.chunk.js.map",
+    "main.js": "/god.github.io/static/js/main.c771306a.chunk.js",
+    "main.js.map": "/god.github.io/static/js/main.c771306a.chunk.js.map",
     "runtime-main.js": "/god.github.io/static/js/runtime-main.540efbde.js",
     "runtime-main.js.map": "/god.github.io/static/js/runtime-main.540efbde.js.map",
-    "static/js/2.b3c48c88.chunk.js": "/god.github.io/static/js/2.b3c48c88.chunk.js",
-    "static/js/2.b3c48c88.chunk.js.map": "/god.github.io/static/js/2.b3c48c88.chunk.js.map",
+    "static/js/2.8c8773da.chunk.js": "/god.github.io/static/js/2.8c8773da.chunk.js",
+    "static/js/2.8c8773da.chunk.js.map": "/god.github.io/static/js/2.8c8773da.chunk.js.map",
     "index.html": "/god.github.io/index.html",
     "static/css/main.205ed40c.chunk.css.map": "/god.github.io/static/css/main.205ed40c.chunk.css.map",
-    "static/js/2.b3c48c88.chunk.js.LICENSE.txt": "/god.github.io/static/js/2.b3c48c88.chunk.js.LICENSE.txt",
+    "static/js/2.8c8773da.chunk.js.LICENSE.txt": "/god.github.io/static/js/2.8c8773da.chunk.js.LICENSE.txt",
     "static/media/G.b571eb82.png": "/god.github.io/static/media/G.b571eb82.png",
     "static/media/award01.361a4bc4.png": "/god.github.io/static/media/award01.361a4bc4.png",
     "static/media/award02.8bbdd514.png": "/god.github.io/static/media/award02.8bbdd514.png",
@@ -36,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.540efbde.js",
-    "static/js/2.b3c48c88.chunk.js",
+    "static/js/2.8c8773da.chunk.js",
     "static/css/main.205ed40c.chunk.css",
-    "static/js/main.9de25552.chunk.js"
+    "static/js/main.c771306a.chunk.js"
   ]
 }
