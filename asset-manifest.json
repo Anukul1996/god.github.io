@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/god.github.io/static/css/main.205ed40c.chunk.css",
-    "main.js": "/god.github.io/static/js/main.c771306a.chunk.js",
-    "main.js.map": "/god.github.io/static/js/main.c771306a.chunk.js.map",
+    "main.js": "/god.github.io/static/js/main.43e28aeb.chunk.js",
+    "main.js.map": "/god.github.io/static/js/main.43e28aeb.chunk.js.map",
     "runtime-main.js": "/god.github.io/static/js/runtime-main.540efbde.js",
     "runtime-main.js.map": "/god.github.io/static/js/runtime-main.540efbde.js.map",
     "static/js/2.8c8773da.chunk.js": "/god.github.io/static/js/2.8c8773da.chunk.js",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.540efbde.js",
     "static/js/2.8c8773da.chunk.js",
     "static/css/main.205ed40c.chunk.css",
-    "static/js/main.c771306a.chunk.js"
+    "static/js/main.43e28aeb.chunk.js"
   ]
 }
